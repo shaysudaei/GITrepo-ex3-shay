@@ -1,7 +1,7 @@
 public class Shay {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            System.out.println("adir... " + i);
+            System.out.println("shay... " + i);
         }
     }
 }
